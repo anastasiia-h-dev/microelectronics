@@ -4,4 +4,4 @@ On the every fifth click text appears.
 
 
 **Circuit**:  
-![alt text]([https://github.com/anastasiia-h-dev/microelectronics/blob/main/arduino/smiley/photos/IMG_6151.heic?raw=true)
+![alt text](https://github.com/anastasiia-h-dev/microelectronics/blob/main/arduino/smiley/photos/circuit.png?raw=true)
