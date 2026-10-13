@@ -25,6 +25,7 @@ Arduino board is connected via cable to a adapter which is directly connected to
 ![alt text](https://github.com/anastasiia-h-dev/microelectronics/blob/main/arduino/smiley/photos/4.png?raw=true)
 ![alt text](https://github.com/anastasiia-h-dev/microelectronics/blob/main/arduino/smiley/photos/5.png?raw=true)
 ![alt text](https://github.com/anastasiia-h-dev/microelectronics/blob/main/arduino/smiley/photos/6.png?raw=true)
+![alt text](https://github.com/anastasiia-h-dev/microelectronics/blob/main/arduino/smiley/photos/7.png?raw=true)
 
 
 
